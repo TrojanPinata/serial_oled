@@ -9,7 +9,7 @@ NL = True                  # for writing to file
 HEIGHT = 64                # height of the frame
 WIDTH = 128                # width of the frame
 BPF = HEIGHT*WIDTH         # bits per frame
-FRAME_COUNT = 7737         # number of frames in the video
+FRAME_COUNT = 3868         # number of frames in the video
 EXTENSION = '.png'         # file extension
 
 export = open('bw.txt', 'w')
